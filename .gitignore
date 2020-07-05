@@ -2,3 +2,4 @@ _site/*
 .sass-cache/*
 .idea/*
 biblio/dbase.bib.sav
+*.bak
