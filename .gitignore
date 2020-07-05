@@ -3,3 +3,4 @@ _site/*
 .idea/*
 biblio/dbase.bib.sav
 *.bak
+*.sav
