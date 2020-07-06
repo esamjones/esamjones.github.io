@@ -29,17 +29,6 @@
   year        = {2011},
 }
 
-@Article{andersen2012finance,
-  author    = {Andersen, Thomas Barnebeck and Jones, Sam and Tarp, Finn},
-  title     = {The finance--growth thesis: a sceptical assessment},
-  journal   = {Journal of African Economies},
-  year      = {2012},
-  volume    = {21},
-  number    = {suppl\_1},
-  pages     = {i57--i88},
-  publisher = {Oxford University Press},
-}
-
 @Article{jones2012innovating,
   author    = {Jones, Sam},
   title     = {Innovating foreign aid—progress and problems},
@@ -123,26 +112,6 @@
   year        = {2013},
 }
 
-@Article{arndt2015assessing,
-  author    = {Arndt, Channing and Jones, Sam and Tarp, Finn},
-  title     = {Assessing foreign aid’s long-run contribution to growth and development},
-  journal   = {World Development},
-  year      = {2015},
-  volume    = {69},
-  pages     = {6--18},
-  publisher = {Pergamon},
-}
-
-@Article{jones2015aid,
-  author    = {Jones, Sam},
-  title     = {Aid supplies over time: Addressing heterogeneity, trends, and dynamics},
-  journal   = {World Development},
-  year      = {2015},
-  volume    = {69},
-  pages     = {31--43},
-  publisher = {Pergamon},
-}
-
 @Article{arndt2016aggregate,
   author    = {Arndt, Channing and Jones, Sam and Tarp, Finn},
   title     = {What is the aggregate economic rate of return to foreign aid?},
@@ -152,38 +121,6 @@
   number    = {3},
   pages     = {446--474},
   publisher = {Oxford University Press},
-}
-
-@Article{jones2014can,
-  author    = {Jones, Sam and Schipper, Youdi and Ruto, Sara and Rajani, Rakesh},
-  title     = {Can your child read and count? Measuring learning outcomes in East Africa},
-  journal   = {Journal of African economies},
-  year      = {2014},
-  volume    = {23},
-  number    = {5},
-  pages     = {643--672},
-  publisher = {Oxford University Press},
-}
-
-@Article{arndt2015relative,
-  author    = {Arndt, Channing and Jones, Sam and Salvucci, Vincenzo},
-  title     = {When do relative prices matter for measuring income inequality? The case of food prices in Mozambique},
-  journal   = {The Journal of Economic Inequality},
-  year      = {2015},
-  volume    = {13},
-  number    = {3},
-  pages     = {449--464},
-  publisher = {Springer US},
-}
-
-@Article{andersen2011can,
-  author  = {Andersen, Thomas B and Jones, Sam and Tarp, Finn},
-  title   = {What can Africa expect from financial development},
-  journal = {Tanzanian Economic Review},
-  year    = {2011},
-  volume  = {1},
-  number  = {1-2},
-  pages   = {76--98},
 }
 
 @Article{tarp2013jobs,
@@ -209,27 +146,6 @@
   publisher = {World Institute for Development Economics Research, United Nations University},
 }
 
-@Article{salazar2015weather,
-  author    = {Salazar-Espinoza, C{\'e}sar and Jones, Sam and Tarp, Finn},
-  title     = {Weather shocks and cropland decisions in rural Mozambique},
-  journal   = {Food Policy},
-  year      = {2015},
-  volume    = {53},
-  pages     = {9--21},
-  publisher = {Pergamon},
-}
-
-@Article{jones2015does,
-  author    = {Jones, Sam and Schipper, Youdi},
-  title     = {Does family background matter for learning in East Africa?},
-  journal   = {Africa Education Review},
-  year      = {2015},
-  volume    = {12},
-  number    = {1},
-  pages     = {7--27},
-  publisher = {Routledge},
-}
-
 @Article{jones2016measuring,
   author    = {Jones, Sam},
   title     = {Measuring what's missing: practical estimates of coverage for stochastic simulations},
@@ -239,33 +155,6 @@
   number    = {9},
   pages     = {1660--1672},
   publisher = {Taylor \& Francis},
-}
-
-@TechReport{arndt2015mozambique,
-  author      = {Arndt, Channing and Jones, E Samuel and Tarp, Finn},
-  title       = {Mozambique: Off-track or temporarily sidelined?},
-  institution = {WIDER Working Paper},
-  year        = {2015},
-}
-
-@Article{jones2015priorities,
-  author  = {Jones, Sam and Tarp, Finn},
-  title   = {Priorities for boosting employment in Sub-Saharan Africa: evidence for Mozambique},
-  journal = {African Development Review},
-  year    = {2015},
-  volume  = {27},
-  number  = {S1},
-  pages   = {56--70},
-}
-
-@Article{jones2015aid,
-  author  = {Jones, Sam and Page, John and Shimeles, Abebe and Tarp, Finn},
-  title   = {Aid, growth and employment in Africa},
-  journal = {African Development Review},
-  year    = {2015},
-  volume  = {27},
-  number  = {S1},
-  pages   = {1--4},
 }
 
 @Article{jones2016does,
