@@ -3,26 +3,27 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Research Fellow, UNU-WIDER (Mozambique)
+
+Associate Professor, Deaprtment of Economics, University of Copenhagen (on leave)
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2009 - 2012`
+__University of Copenhagen__
+PhD, Economics
+
+`2002 - 2003`
+__University of London, School of Oriental and African Studies__
+MSc, Political Economy of Development
 
 `1995 - 1997`
-__University Name__
-Degree Awarded 
+__University of Cambridge__
+BA, Social and Political Sciences
 
-## Awards
+## Publication highlights
 
-`2012`
-Name of Award, Organization 
-
-## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+The full list is available [here](https://esamjones.github.io/publications/)
 
 ### Journals
 
@@ -47,7 +48,7 @@ Book Title, Journal Title
 Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
 
 
-## Occupation
+## Previous positions
 
 `Current`
 __Current Job Title__, Current Employer 
