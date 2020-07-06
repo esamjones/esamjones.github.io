@@ -1,5 +1,6 @@
 ---
 layout: resume
+title: Curriculum Vitae (short)
 ---
 ## Currently
 
@@ -21,11 +22,11 @@ MSc, Political Economy of Development
 __University of Cambridge__
 BA, Social and Political Sciences
 
-## Publication highlights
+## Publications
 
-The full list is available [here](https://esamjones.github.io/publications/)
+The full list is available [here](https://esamjones.github.io/publications/).
 
-### Journals
+### Recent journal articles
 
 `1994`
 Article Title, Journal Title
@@ -66,6 +67,6 @@ __Current Job Title__, Current Employer
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2020 -->
 
 
