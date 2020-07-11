@@ -5,6 +5,6 @@ title: Coding things
 
 Here are a few simple utilities I wrote in Stata:
 
-    - Convert data to a TeX table:
+    - Convert data to a TeX table: [texify.do](https://github.com/esamjones/StataCode/texify.do)
     - Save/load data as .zip:
     - Save/load globals: 
