@@ -15,7 +15,7 @@ table:nth-of-type(1) th:nth-of-type(1) {
 | Date | Link |
 | :--- | :--- |
 | 2020, Apr 20 | [The five criteria low income countries must have in place for lockdowns to work](https://theconversation.com/the-five-criteria-low-income-countries-must-have-in-place-for-lockdowns-to-work-136263) |
-| 2020, Apr | [https://www.wider.unu.edu/publication/mozambique-prepared-lockdown-during-covid-19-pandemic](https://www.wider.unu.edu/publication/mozambique-prepared-lockdown-during-covid-19-pandemic) |
+| 2020, Apr | [Is Mozambique prepared for a lockdown during the COVID-19 pandemic?](https://www.wider.unu.edu/publication/mozambique-prepared-lockdown-during-covid-19-pandemic) |
 | 2019, Oct 23 | [Nobel prize in economics: experiments are no substitute for diagnosis](https://theconversation.com/nobel-prize-in-economics-experiments-are-no-substitute-for-diagnosis-125575) |
 | 2019, Aug 19 | [Mozambique case study shows that poverty is about much more than income](https://theconversation.com/mozambique-case-study-shows-that-poverty-is-about-much-more-than-income-121639) |
 | 2019, Jun  | [The vital role of aid in development ](https://www.wider.unu.edu/publication/vital-role-aid-development) |
