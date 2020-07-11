@@ -2,8 +2,17 @@
 layout: page
 title: Less academic writing
 ---
+<style>
+table:nth-of-type(1) {
+    display:table;
+    width:100%;
+}
+table:nth-of-type(1) th:nth-of-type(2) {
+    width:20%;
+}
+</style>
 
-| <div style="width:290px">property</div> Date | Link |
+| Date | Link |
 | :--- | :--- |
 | 2020, Apr 20 | [The five criteria low income countries must have in place for lockdowns to work](https://theconversation.com/the-five-criteria-low-income-countries-must-have-in-place-for-lockdowns-to-work-136263)
 | 2016, May 24 | [Growth is not enough for Mozambique’s informal workers](https://blogs.worldbank.org/jobs/growth-not-enough-mozambique-s-informal-workers) | 
