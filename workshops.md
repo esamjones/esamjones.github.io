@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Workshops
+title: Writing
 excerpt: "Recent Workshops"
 ---
 
-# Workshops I've Put Together
-
-- [GitHub Pages Workshop](https://github.com/BioData-Club/githubPagesTutorial)
+May 24, 2016 | Word Bank | [Growth is not enough for Mozambique’s informal workers](https://blogs.worldbank.org/jobs/growth-not-enough-mozambique-s-informal-workers)
