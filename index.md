@@ -1,10 +1,12 @@
 ---
 layout: page
-excerpt: "About Me..."
-title: Welcome
+excerpt: "My mostly academic website"
+title: Sam Jones
 ---
 
 I am a Research Fellow with [UNU-WIDER](https://www.wider.unu.edu) in Mozambique, principally based at the Ministry of Economy and Finance (Maputo). 
+
+I'm an applied/empirical development economist, with a broad range of interests, but with a particular focus on topics in labour and education, as well as diagnostic methods (e.g., decompositions). 
 
 I am an [Associate Professor](https://www.economics.ku.dk/staff/vip/?pure=en/persons/335694) at the University of Copenhagen, Department of Economics, where I sit in the [Development Economics Research Group](https://www.econ.ku.dk/derg/). I am currently on leave of public service from this position.
 
