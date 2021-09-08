@@ -44,11 +44,15 @@ See [here](https://esamjones.github.io/publications/).
 ## Recent presentations
 
 `2021/09`
-"Informal freelancers in the time of COVID-19: insights from a digital matching platform in Mozambique", 5th Annual IZA/World Bank/NJD/UNU-WIDER Jobs and Development Conference; and UNU-WIDER annual conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+<a href="https://github.com/esamjones/esamjones.github.io/blob/master/archive/2021-09.Biscate.pdf">Informal freelancers in the time of COVID-19: insights from a digital matching platform in Mozambique</a>, 5th Annual IZA/World Bank/NJD/UNU-WIDER Jobs and Development Conference; and UNU-WIDER annual conference.
 
+`2021/08` <a href="https://github.com/esamjones/esamjones.github.io/blob/master/archive/2021-08.IGM.pdf">How biased are measures of intergenerational
+educational mobility?
+Practical guidance from a simulation framework</a>, UNU-WIDER seminar, Helsinki (online)
 
-
-
+`2021/03` <a href="https://github.com/esamjones/esamjones.github.io/blob/master/archive/2021-03.Update.pdf">Updating great expectations: the effect of
+peer salary information on future
+own-earnings beliefs</a>, CSAE Conference 2021, Oxford (online)
 
 <!-- ### Footer
 
