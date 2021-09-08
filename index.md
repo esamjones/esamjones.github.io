@@ -4,9 +4,9 @@ excerpt: "About Me..."
 title: Welcome
 ---
 
-I am a Research Fellow with [UNU-WIDER](https://www.wider.unu.edu) in Mozambique, based principally at the Ministry of Economy and Finance (Maputo). 
+I am a Research Fellow with [UNU-WIDER](https://www.wider.unu.edu) in Mozambique, principally based at the Ministry of Economy and Finance (Maputo). 
 
-I am an [Associate Professor](https://www.economics.ku.dk/staff/vip/?pure=en/persons/335694) at the University of Copenhagen, Department of Economics, where I sit in the [Development Economics Research Group](https://www.econ.ku.dk/derg/). I am currently on leave from this position to work with UNU-WIDER.
+I am an [Associate Professor](https://www.economics.ku.dk/staff/vip/?pure=en/persons/335694) at the University of Copenhagen, Department of Economics, where I sit in the [Development Economics Research Group](https://www.econ.ku.dk/derg/). I am currently on leave of public service from this position.
 
 This is my __personal website__, where you can find my [academic publications](https://esamjones.github.io/publications/), general writing, recent presentations (in my [CV](https://esamjones.github.io/cv/)) and so on.
 
