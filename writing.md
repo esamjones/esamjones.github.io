@@ -13,6 +13,8 @@ table:nth-of-type(1) th:nth-of-type(1) {
 </style>
 | Date | Link |
 | :--- | :--- |
+| 2021, May 21 | [Mozambique’s difficult decade: three lessons to inform next steps](https://theconversation.com/mozambiques-difficult-decade-three-lessons-to-inform-next-steps-161107) |
+| 2021, Mar 02 | [Infrastructure spend: insights from the effect of a bridge across the Zambezi on maize prices](https://theconversation.com/infrastructure-spend-insights-from-the-effect-of-a-bridge-across-the-zambezi-on-maize-prices-155515) |
 | 2020, Jul 27 | [Beyond lockdown: rebuilding the social contract](https://www.globaldev.blog/blog/beyond-lockdown-rebuilding-social-contract) |
 | 2020, Apr 20 | [The five criteria low income countries must have in place for lockdowns to work](https://theconversation.com/the-five-criteria-low-income-countries-must-have-in-place-for-lockdowns-to-work-136263) |
 | 2020, Apr | [Is Mozambique prepared for a lockdown during the COVID-19 pandemic?](https://www.wider.unu.edu/publication/mozambique-prepared-lockdown-during-covid-19-pandemic) |
