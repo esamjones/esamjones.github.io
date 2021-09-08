@@ -4,9 +4,23 @@ title: Curriculum Vitae (short)
 ---
 ## Currently
 
-Research Fellow, UNU-WIDER (Mozambique)
+`2018 - now` Research Fellow, __UNU-WIDER__ (Ministry of Economy and Finance, Mozambique)
 
-Associate Professor, Deaprtment of Economics, University of Copenhagen (on leave)
+`2014 - now` Associate Professor, Department of Economics, __University of Copenhagen__ (on leave of public of service)
+
+## Formerly
+
+`2012 - 2014` Assistant Professor, Department of Economics, __University of Copenhagen__ (on leave of public of service)
+
+`2010 - 2012` Senior Resident Advisor, Ministry of Planning and Development, Directorate of Studies and Policy Analysis, __Government of Mozambique__
+
+`2007 - 2008` Senior Researcher, __Danish Institute for International Studies__
+
+`2003 - 2007` ODI Fellow (and then consultant), Ministry of Planning and Finance, __Government of Mozambique__
+
+`2001 - 2002` Research Associate, __Opinion Leader Research__, London
+
+`1998 - 2000` Associate, Emerging Markets Banking Supervision, __Financial Services Authority__, (formerly Bank of England), London
 
 ## Education
 
@@ -24,49 +38,19 @@ BA, Social and Political Sciences
 
 ## Publications
 
-The full list is available [here](https://esamjones.github.io/publications/).
-
-### Recent journal articles
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
+See [here](https://esamjones.github.io/publications/).
 
 
-## Presentations
+## Recent presentations
 
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+`2021/09`
+"Informal freelancers in the time of COVID-19: insights from a digital matching platform in Mozambique", 5th Annual IZA/World Bank/NJD/UNU-WIDER Jobs and Development Conference; and UNU-WIDER annual conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
 
 
-## Previous positions
-
-`Current`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
 
 
 
 <!-- ### Footer
 
-Last updated: July 2020 -->
-
+Last updated: September 2021 -->
 
