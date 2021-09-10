@@ -2,15 +2,15 @@
 layout: resume
 title: Curriculum Vitae (short)
 ---
-## Currently
+## Current work
 
 `2018 - now` Research Fellow, __UNU-WIDER__ (Ministry of Economy and Finance, Mozambique)
 
 `2014 - now` Associate Professor, Department of Economics, __University of Copenhagen__ (on leave of public of service)
 
-## Formerly
+## Former work
 
-`2012 - 2014` Assistant Professor, Department of Economics, __University of Copenhagen__ (on leave of public of service)
+`2012 - 2014` Assistant Professor, Department of Economics, __University of Copenhagen__
 
 `2010 - 2012` Senior Resident Advisor, Ministry of Planning and Development, Directorate of Studies and Policy Analysis, __Government of Mozambique__
 
