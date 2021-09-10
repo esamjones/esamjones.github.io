@@ -6,7 +6,7 @@ title: Curriculum Vitae (short)
 
 `2018 - now` Research Fellow, __UNU-WIDER__ (Ministry of Economy and Finance, Mozambique)
 
-`2014 - now` Associate Professor, Department of Economics, __University of Copenhagen__ (on leave of public of service)
+`2014 - now` Associate Professor, Department of Economics, __University of Copenhagen__ (on leave of public service)
 
 ## Former work
 
@@ -24,15 +24,15 @@ title: Curriculum Vitae (short)
 
 ## Education
 
-`2009 - 2012`
+`2012`
 __University of Copenhagen__
 PhD, Economics
 
-`2002 - 2003`
+`2003`
 __University of London, School of Oriental and African Studies__
 MSc, Political Economy of Development
 
-`1995 - 1997`
+`1998`
 __University of Cambridge__
 BA, Social and Political Sciences
 
