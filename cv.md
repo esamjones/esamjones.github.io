@@ -43,6 +43,8 @@ See [here](https://esamjones.github.io/publications/).
 
 ## Recent presentations
 
+`2021/10` <a href="https://github.com/esamjones/esamjones.github.io/blob/master/archive/2021-10.PEPs.pdf">Doing business while holding public office: Evidence from Mozambique’s firm registry</a>, University of Cape Town, School of Economics, seminar series
+
 `2021/09`
 <a href="https://github.com/esamjones/esamjones.github.io/blob/master/archive/2021-09.Biscate.pdf">Informal freelancers in the time of COVID-19: insights from a digital matching platform in Mozambique</a>, 5th Annual IZA/World Bank/NJD/UNU-WIDER Jobs and Development Conference; and UNU-WIDER annual conference.
 
@@ -58,5 +60,5 @@ own-earnings beliefs</a>, CSAE Conference 2021, Oxford (online)
 
 <!-- ### Footer
 
-Last updated: September 2021 -->
+Last updated: October 2021 -->
 
