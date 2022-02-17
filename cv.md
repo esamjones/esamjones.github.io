@@ -43,22 +43,23 @@ See [here](https://esamjones.github.io/publications/).
 
 ## Recent presentations
 
+`2022/02` <a href="https://github.com/esamjones/esamjones.github.io/blob/master/archive/2022-02-17.SSE_ho.pdf">What drove the profitability of colonial firms? Labour coercion and trade preferences on the
+Sena Sugar Estates (1920-1974)</a>, UNU-WIDER, Helsinki, brown-bag seminar series
+
+`2022/02` <a href="https://github.com/esamjones/esamjones.github.io/blob/master/archive/2022-02-14.Bundles_ho.pdf">Extending Multidimensional Poverty Identification From Additive Weights to Minimal Bundles</a>, Oxford Poverty and Human Development Initiative (OPHI), seminar series (joint with Institute for International Economic Policy, George Washington University and the UNDP Human Development Report Office)
+
 `2021/10` <a href="https://github.com/esamjones/esamjones.github.io/blob/master/archive/2021-10.PEPs.pdf">Doing business while holding public office: Evidence from Mozambique’s firm registry</a>, University of Cape Town, School of Economics, seminar series
 
 `2021/09`
 <a href="https://github.com/esamjones/esamjones.github.io/blob/master/archive/2021-09.Biscate.pdf">Informal freelancers in the time of COVID-19: insights from a digital matching platform in Mozambique</a>, 5th Annual IZA/World Bank/NJD/UNU-WIDER Jobs and Development Conference; and UNU-WIDER annual conference.
 
-`2021/08` <a href="https://github.com/esamjones/esamjones.github.io/blob/master/archive/2021-08.IGM.pdf">How biased are measures of intergenerational
-educational mobility?
-Practical guidance from a simulation framework</a>, UNU-WIDER seminar, Helsinki (online)
+`2021/08` <a href="https://github.com/esamjones/esamjones.github.io/blob/master/archive/2021-08.IGM.pdf">How biased are measures of intergenerational educational mobility? Practical guidance from a simulation framework</a>, UNU-WIDER seminar, Helsinki (online)
 
-`2021/03` <a href="https://github.com/esamjones/esamjones.github.io/blob/master/archive/2021-03.Update.pdf">Updating great expectations: the effect of
-peer salary information on future
-own-earnings beliefs</a>, CSAE Conference 2021, Oxford (online)
+`2021/03` <a href="https://github.com/esamjones/esamjones.github.io/blob/master/archive/2021-03.Update.pdf">Updating great expectations: the effect of peer salary information on future own-earnings beliefs</a>, CSAE Conference 2021, Oxford (online)
 
 
 
 <!-- ### Footer
 
-Last updated: October 2021 -->
+Last updated: Feb 2022 -->
 
