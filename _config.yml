@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: Personal website
-locale: en_US
+locale: en_GB
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
@@ -12,9 +12,9 @@ owner:
   email: jones@wider.unu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: esamjones
-  linkedin: #username
+  linkedin: esamjones
   github: esamjones
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  orcid: 0000-0002-2691-7189
   researchgate: #username
   mendeley: #username
   google:
