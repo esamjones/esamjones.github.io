@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Selected less academic writing
+title: Some less academic writing (blogs etc.)
 ---
 <style>
 table:nth-of-type(1) {
@@ -13,6 +13,7 @@ table:nth-of-type(1) th:nth-of-type(1) {
 </style>
 | Date | Link |
 | :--- | :--- |
+| 2026, Oct | [Twenty years of jobs and development – lessons from Hong Kong](https://www.wider.unu.edu/publication/twenty-years-jobs-and-development-lessons-hong-kong) |
 | 2026, Jul 13 | [Africa’s youth are finding jobs – but not the ones they imagined](https://theconversation.com/africas-youth-are-finding-jobs-but-not-the-ones-they-imagined-287078) |
 | 2026, May 5 | [Mozambique’s economy is failing: the tough policy choices that need to be made urgently](https://theconversation.com/mozambiques-economy-is-failing-the-tough-policy-choices-that-need-to-be-made-urgently-281679) |
 | 2025, Dec | [Structural transformation: Africa’s long road and Mozambique’s urgent choices](https://www.wider.unu.edu/publication/structural-transformation-africas-long-road-and-mozambiques-urgent-choices) |
