@@ -13,6 +13,12 @@ table:nth-of-type(1) th:nth-of-type(1) {
 </style>
 | Date | Link |
 | :--- | :--- |
+| 2026, Jul 13 | [Africa’s youth are finding jobs – but not the ones they imagined](https://theconversation.com/africas-youth-are-finding-jobs-but-not-the-ones-they-imagined-287078) |
+| 2026, May 5 | [Mozambique’s economy is failing: the tough policy choices that need to be made urgently](https://theconversation.com/mozambiques-economy-is-failing-the-tough-policy-choices-that-need-to-be-made-urgently-281679) |
+| 2025, Oct 7 | [How political connections shape Mozambique’s private sector](https://voxdev.org/topic/firms/how-political-connections-shape-mozambiques-private-sector) |
+| 2024, Nov 13 | [Mozambique in post‑election turmoil: economic policies that could make a difference](https://theconversation.com/mozambique-in-post-election-turmoil-economic-policies-that-could-make-a-difference-243603) |
+| 2024, Oct 23 | [Firm profitability and forced wage labour in Portuguese Africa: Evidence from the Sena Sugar Estates](https://aehnetwork.org/firm-profitability-and-forced-wage-labour-in-portuguese-africa-evidence-from-the-sena-sugar-estates/) |
+| 2022, Aug 28 | [Digital platforms and job search: Experimental evidence from Mozambique](https://cepr.org/voxeu/columns/digital-platforms-and-job-search-experimental-evidence-mozambique) |
 | 2021, May 21 | [Mozambique’s difficult decade: three lessons to inform next steps](https://theconversation.com/mozambiques-difficult-decade-three-lessons-to-inform-next-steps-161107) |
 | 2021, Mar 02 | [Infrastructure spend: insights from the effect of a bridge across the Zambezi on maize prices](https://theconversation.com/infrastructure-spend-insights-from-the-effect-of-a-bridge-across-the-zambezi-on-maize-prices-155515) |
 | 2020, Jul 27 | [Beyond lockdown: rebuilding the social contract](https://www.globaldev.blog/blog/beyond-lockdown-rebuilding-social-contract) |
